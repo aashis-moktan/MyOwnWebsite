@@ -1,0 +1,1 @@
+window.alert("hello this is index.js");
